@@ -1,0 +1,838 @@
+[Music]
+welcome to the agency journey podcast
+where we connect with agency leaders to
+uncover the hidden systems and processes
+that drive their success now let's dive
+into today's show
+all right welcome into another episode
+of agency journey this is great
+mackenzie from zen pilot and this week i 
+got the pleasure of bringing on chase
+diamond the podcast we're going to be
+digging into all things email marketing
+today chase welcome to podcast man
+hey thanks for having me how are you i
+am doing great and i've been looking
+forward i've had a full day of calls
+we're just talking about i'm catching up
+from labor day weekend you're doing the
+same
+uh but this is one of the ones that i've
+been looking forward to all day to dig
+into your story your prolific
+i feel like i am seeing you all over the
+internet uh these days but especially in
+my uh in my twitter scrolling
+not specifically targeting you i don't
+think anyone else is seeing that's right
+it's just me i appreciate that um
+what's the background how did you get
+into email marketing
+yeah so
+long story short at 13 years old
+diagnosed with crohn's disease was sick
+for the entirety of a year really has a
+lack of awareness of this disease so
+after finally feeling better figuring
+out that i had crohn's disease at 14 it
+took it upon myself to learn guerrilla
+marketing to raise awareness and
+fundraising for this disease but one of
+the channels that i leveraged was just
+emailing friends and families and kind
+of promoting this i was also doing
+things like messenger and calling
+people's houses and doing restaurant
+fundraisers and whatnot so email kind of
+was just this thing that kind of allowed
+me to share my story that was pretty
+personal in a one-to-one way and then
+you know fast forward to college i was
+working six eight you know ten different
+jobs and internships to pay for my
+tuition and i was manually sending
+emails one by one and i just remember
+this moment of like this software
+engineer kind of happened to walk by my
+desk and i was like dude why the heck
+are you copying and pasting all day like
+that's so inefficient like why don't you
+automate and scale this through you know
+esp's email service providers and you
+know why don't you do it this way and
+this guy while i was in college just
+taught me how to like make email in a
+way that was personal um but do it in a
+way that was one to many so long-winded
+that's kind of how i i got into it after
+i got graduated college i built an email
+platform that connected students on
+college campuses to other in their
+classroom um you know use it as an
+acquisition tool use it as a retention
+tool and email's just really been at the
+core of everything that i've done uh
+ever since
+what's the i'm gonna dig into definitely
+this is not the lead in that story but
+it sounds like you were working way
+through school what was uh i had many
+people come on and talk about how they
+were paying their tuition through
+college but that's a
+uh i've got to tie into that story
+personally as well
+is that like what was driving the
+uh paying for college
+yes i think i think it was a lot of
+things but like yeah that was like the
+main thing it's like i i tried to go
+into the school that was close to me i
+live in orange county california was
+called chapman university i tried to go
+in there but i just could not afford it
+we weren't able to get any financial aid
+i didn't want to get a loan so i went to
+the local state school for like six
+months and i was like you know screw it
+i'm gonna find a way to go there let's
+do it i started just working jobs
+internships and i had at one point i
+think three different jobs and
+internships and you know one i was
+making like commissions on sales and i
+was doing decently another i was making
+like 25 bucks an hour as like a college
+student so i was stoked i thought i had
+a bunch of money but every month you
+know between rent and everything i
+basically would like you know go back to
+zero and at the end of
+it i graduated with some debt and i paid
+it off after my first job so um yeah the
+hustle the grind the kind of creativity
+really came from like the necessity of
+wanting to go to this school and really
+having to pay the way kind of alongside
+my parents yep that makes a lot of sense
+so
+i want to
+kind of give people an overview of what
+you're up to today outside of being all
+over social well that's a piece of what
+you're doing but you're also involved in
+an agency maybe give us the lay of the
+land between courses the agency
+everything that you've got going on
+yeah it's it's definitely a lot as we
+were talking about before but i'm a
+partner at an e-commerce marketing
+agency called structured and we have
+about
+i don't know 70 to 75 full-time
+employees working about 150 e-commerce
+brands i run specifically the retention
+side of the team which is about 50 to 60
+people about 100 clients across email
+and sms email's really kind of my bread
+and butter my focus sms is kind of
+something we added more recently and
+brought in kind of an expert to run that
+specific team in that channel
+but outside of that we also do paid
+social and kind of creative for top of
+funnel so it's it's been a a whirlwind
+you know
+knock on wood fingers crossed you know
+lucky for us you know this past year and
+a half has been pretty good obviously i
+know for a lot of folks it hasn't so
+obviously mindful when i say that but
+just yeah the past year in terms of
+social and everything it's been a major
+kind of growth and acceleration here and
+we work specifically with seven to nine
+figure e-commerce brands
+yep
+and then on the course front
+when did you launch your first course
+so i launched well actually i always
+kind of forgot to talk about this but i
+launched a course with founder magazine
+like two or three years ago and that's
+kind of like what put me in some ways on
+the map and kind of allowed me to
+understand like this whole
+business of selling info which is kind
+of something that was foreign and
+strange and weird and it kind of still
+is but it's kind of cool and it's
+exciting because it allows you to help
+more people than you can in a one-to-one
+way
+but for me myself like the main course
+that i have right now that i launched
+was around october
+of last year so give or take about about
+a year ago
+um and it kind of stemmed from a few
+different things
+uh one was i was having to update our
+internal documentation documentation
+kind of resources for our agency as we
+were scaling it wasn't something where
+like we could start hand holding
+everyone that came in we knew at some
+point or the other we were going to have
+to have just like libraries and
+templates and courses and i wasn't
+really happy truthfully with a lot of
+the courses available on the market or
+else i would have saved myself a lot of
+time and effort and aggravation and just
+kind of took that and said hey go take
+this and run with it i guess fortunately
+in hindsight those weren't available and
+we wanted to do things very specifically
+and we were very focused um on clavio as
+a platform so built the course
+planned and just intended it to be
+internal uh there happened to be this
+threat or this conversation on twitter
+where someone was like hey we need an
+e-commerce email marketing course and
+then someone tagged me saying hey chase
+would you do one i'm like i don't really
+know i'm building something internally
+but i want it to be internal and then it
+kind of just sparked from there where i
+was like wow like there's a lot of
+demand now on twitter for this course
+people keep tagging me like maybe i just
+make this you know a wide and available
+to the public as well so that kind of
+stemmed from it so that's course one
+about october of 2020 and i've since
+launched a few other kind of mini kind
+of supplemental products as well
+okay that's awesome so you've got the
+main course is the e-commerce email
+marketing course right does it have a
+different name
+no that's that's it i've done a bad job
+with the names i literally i love it
+just call it that one one cool thing
+hopefully saying this doesn't get me out
+ranked but i ranked number one on google
+right now if someone looks on ecommerce
+email marketing course which is kind of
+cool so i didn't intend for that it was
+kind of like a byproduct of just having
+you know a very cookie cutter standard
+name because i couldn't think of
+anything more creative so that's my
+that's my main course yeah okay that
+makes sense so this course i've heard
+about this course this is one of the
+reasons that i reached out to have you
+on podcast was heard about the course
+for multiple agencies who we worked with
+in the e-comm space
+actually you mentioned we were talking
+earlier uh michael lisavetsky and troy
+austin off it
+at juice they were just on the podcast
+here recently
+as well but if anyone's interested in
+checking out the course
+uh it's chase diamond and diamond is
+d-i-m-o-n-d dot podia.com
+is the link obviously we'll have that
+stuff in the show notes as well
+so from an agency perspective as you
+guys are growing it do you say there's
+four partners right now
+yeah yeah exactly okay makes sense
+and then
+in terms of the last year i assume
+there's been a ton of growth here i mean
+everyone especially in ecom
+uh every agency has done well in the
+last 18 months which is as you mentioned
+kind of weird to say or you know like
+it's there's some circles where um
+you feel a little bit awkward uh
+bringing it up or it's just
+uncomfortable other people there's been
+a lot of suffering that's going on
+with it but it's been a great there's no
+denying it's been a great opportunity
+for agencies
+at the same time
+um in terms of growth for you guys as an
+agency right now what are some of the
+priorities uh that are on your plate
+yeah it's a couple of things so myself
+and a partner about three and a half
+years ago specifically started an agency
+doing e-commerce email marketing and one
+of my good buddies um who also had an
+agency in the paid social space his
+name's nick shackleford we've been
+friends for over 15 years
+he was actually the one that got me into
+e-commerce he was doing his whole paid
+social thing and we just kind of saw
+like the writing on the wall of the
+future of like you know brands aren't
+going to want to work with
+12 different agencies right they're not
+going to have an agency for influencers
+and for paid and for creative and for
+email for sms right so we wanted to do
+kind of some consolidation so that way
+it's like hey we're not going to offer
+every single service but we're going to
+offer a few of the core services and do
+it really really well so we actually
+merged our agencies about a year a year
+and a half ago
+and that's kind of what opened up the
+ability for us to kind of service more
+folks so um that was like that merger
+kind of acquisition that we did together
+and our focus now has actually been
+acquiring and kind of finding other
+agencies to absorb just because there's
+so much talent out there and most of
+talent right now either a runs their own
+agency or b is internal somewhere right
+and it's kind of hard to attract the
+internal people
+onto the agency side and it's hard to
+get these small agencies or medium
+agencies have great people you know to
+come work for you because they're super
+good so for for us in terms of growth
+that we're trying to grow through some
+acquisitions and whatnot we recently
+acquired an agency that primarily
+focuses on snapchat so while we do paid
+social we only primarily did facebook
+and instagram we acquired them and we're
+now trying to buy like cro shops more
+email shops so we're really trying to
+grow that way another weird thing that
+we never intended to do as we kind of
+scale the team is we brought in like an
+internal uh head of hr kind of recruiter
+which is kind of a strange thing my
+little brother does recruiting so we
+found a recruiter through a recruiter
+which was like very meta um so that's
+kind of some of the things that we're
+focused on we also have like a couple
+month wait list right now for new
+clients um
+which i think is like a blessing and a
+curse it's a blessing because you know
+we're fortunate to have the business and
+by telling people we have a waitlist you
+know it kind of created more demand than
+we thought which allowed us to keep
+raising prices um it also allows us to
+make sure that we are scaling with
+quality in mind so by telling people hey
+we've got a two to three month wait list
+we're able to make sure we have
+everything in place we have our ducks in
+the road higher to onboard and whatnot
+the bad side right is like we're
+probably leaving
+six
+you know
+below six figures a month mrr kind of on
+the table by not being able to abort it
+but i guess that goes with the territory
+right
+uh in terms of acquisitions what are
+some of the things that make
+an ideal target for you right now you
+mentioned some complementary services
+like cro and then some overlapping
+services with more email which i assume
+is a bandwidth but
+exactly yeah
+yeah what are some of the things you're
+looking for
+um so it depends like we're still kind
+of ironing out we've done one
+acquisition outside that the merger that
+we did initially and we're trying to
+make a couple others we're really trying
+to find like that right kind of piece of
+the puzzle for each you know
+entrepreneur each owner we've had a lot
+of conversations probably talk to a
+dozen and a half agencies and different
+people want different things right i
+think also too like people's
+understanding of what like an
+acquisition actually means is very
+skewed people think like they're going
+to get 100 of the cash up front they're
+going to be able to walk away and it's
+like well you know if you could find
+idea let us know we would be willing to
+submit our hat into it as well um we
+really want people that are kind of fast
+growing typically doing on the low end
+probably about twenty thousand dollars a
+month in ebitda and probably on the
+higher end they're maybe doing like 60
+to 80 000 a month in ebay right anything
+over that maybe is a little bit too big
+in terms of like what people expect um
+but typically it's like people that are
+anywhere from like three to like kind of
+10 or 15 type people it's kind of like
+the sweet spot that we're finding um and
+it's kind of a mix of like we're trying
+to buy ebitda trying to buy some book of
+business although that's not necessarily
+the motivation because we we have
+fortunately the book of business we're
+really looking for like more of like the
+aqua higher we're looking for the talent
+we're looking for people and even
+different geographies right so most of
+our businesses here in the states we do
+have some you know penetration into the
+uk we're also looking for some folks
+that have uk and other kind of global
+audience for new clients and also the
+ability for us to be more of like a 24 7
+shop if we have people on different time
+zones that allows us to service people
+at any given point in time
+yeah that makes a lot of sense
+so
+if you're taking agencies doing let's
+say a quarter of a million to maybe top
+end closer to a million
+in ebitda most of the times
+those exits would look like something
+from two to an fx on the on the lowest
+end uh you know five six x at the very
+highest end
+um
+but it sounds like what you're
+structuring is i'm assuming
+you'd have maybe there's some cash
+involved but probably you're also
+finding people who are interested in
+being part of a bigger bite
+um down the road in a in a future exit
+so there's a equity component to that as
+well
+yeah so so it's it is some cash where i
+like transparently we're not paying you
+know hundreds of thousands and millions
+of dollars up front like we're paying
+yeah you know
+in the in the five figures typically
+depending on the size up front and then
+you know we're basically allowing them
+to have some kind of i guess ongoing
+commission or not based off of
+performance right so on a monthly
+quarterly annual basis they have certain
+targets and that they can hit those
+they're more or less getting like a
+commission or like a bonus and then
+there's
+you know
+i don't know if equity or stock or
+shares is the right word but there is
+some kind of upside on on the back end
+if we do get acquired which is our
+ultimate goal uh we are trying to sell
+our agency in the next two to four years
+and we're we're really trying to get to
+like that low eight figure in terms of
+ebitda just because the multiple's there
+what we're talking to and what we're
+seeing and just skyrocket um you know
+without giving the specific number we're
+like in the low
+we'll we'll do like a low to mid kind of
+seven figures in terms of evo this year
+we're hoping to do like mid next year
+and we're hoping to do like you know
+high mid and then you know actually hit
+that eight figures in the next like two
+to four years i think um so so yeah it's
+a different kind of package depending on
+where people are at and what they're
+looking for right well this is a hot
+topic so i appreciate you entertaining
+entertaining the conversation i want to
+go back to the course for a second
+um
+the course seems like an awesome way to
+distribute
+what you
+have
+you know what you've learned what you've
+accumulated and the lessons that you've
+um
+that you've experienced
+over the years
+does it play a role at all in client
+acquisition from an agency perspective
+obviously i'm talking i'm seeing it from
+hey here's other agencies who've gone
+through and they get the advantage of
+getting to see
+what you've built but i'm assuming
+there's also in-house marketers or folks
+who are trying to do it on their own
+they get in they realize how much goes
+into this and maybe there's a pipeline
+there
+yeah absolutely a couple thoughts on the
+course of things that i didn't think
+were going to happen that happened one
+is when i created it i actually thought
+it was going to be specifically for
+brands i never actually even thought
+that like other agencies or freelancers
+were going to buy it i'd say about half
+if not more than half of the buyers of
+it are freelancers and agency for
+whatever reason like that surprised me
+initially and in hindsight i think it
+makes sense it's been agencies that
+either do email that want to make sure
+that they're doing it right or want to
+use it as training as well or agencies
+that have been dealing with top of the
+funnel issues because of ios 14 14.5
+that want to diversify services or kind
+of completely switch services that was
+kind of one surprise and within that
+group right like that's kind of like a
+feeding pool for people that want to
+work for us for people that want to get
+acquired right so that's that sliver in
+that piece but to answer and address
+what you're saying yeah people have
+either purchased the course gone through
+and been like hey set up some of it it's
+working but i don't have time to do the
+rest of it can i hire you or some people
+have just seen it have in person be like
+hey you know instead of paying for the
+course can i just hire you like you have
+an agency as well but those are kind of
+some of the things that i didn't expect
+would happen and people are giving me
+notes and feedback and asking for new
+modules and like actually never even
+thought about that right so it really is
+such a great two-way thing where i'm
+constantly updating content i'm gonna be
+making some changes and updates based on
+the ios 15 stuff coming up um and it's
+just really been a great way for me to
+learn as well which is kind of an
+interesting thing i never thought would
+happen
+yep and then you are one of the things
+we um haven't really talked about though
+is the fact that you're also running a
+podcast right now
+uh ecommerce opportunity podcast is that
+right yep
+how did that come about and what's the
+and give us the quick gist of what that
+podcast looks like
+yeah podcast is something i wanted to do
+for a super long time and it was
+something that i found out this was like
+hey during everything that's happening
+right now there's no better time to to
+just do it like i'm either just going to
+do it or it's never going to happen and
+like the thesis and the goal of the
+podcast was just like i would have
+conversations with you know folks like
+yourself or other people and like man i
+wish we recorded that either for our own
+personal knowledge for you know our team
+or even the ability to share it with
+other people that was kind of like the
+goal of it and you know
+i've just i think finished season one i
+had like 35 or 40 episodes i was really
+interviewing marketers and founders
+within e-commerce about like what
+they're doing what the opportunity is
+what's working how do you get clients um
+you know where do you think the next
+opportunity is for service providers
+right i think that the heyday of like
+being a facebook agency is probably over
+obviously there's still money there
+there's still people doing well there
+that's not what i'm saying but i think
+you know when i talk to people like my
+business partner nick shackleford he's
+like man if i
+know what i do now i would probably have
+done something like email or sms right
+um so just kind of exploring those
+opportunities and then for season two um
+i'm planning on bringing on like a
+co-host and making a little bit more
+like my first million where it's a
+little bit more off the cusp
+conversational ideas um unless more like
+interview and more kind of like back and
+forth conversation and that's just like
+spitballing so i'm planning on doing
+season two in that coming weeks or
+coming months that's a little bit more
+like i don't want to say not prepared
+but a little bit more raw
+yep
+uh this is the first my first million
+shout out on the on the podcast but i
+also i also listen all the back and
+forth between uh sam and sean
+and um
+so i think it's cool what uh if you go
+that route
+are you gonna keep it focused in the
+marketing space spitballing ideas or
+where do you want to go with it i'm
+assuming if you're keeping the name
+obviously it's somewhat focused in the
+comp space but what are your thoughts
+there yeah definitely definitely ecom
+focused um
+most of my interest in knowledge and
+expertise is on marketing but you know
+depending on the co-host i bring and
+depending on who we even interview from
+time to time i kind of want to explore
+things like what the heck is happening
+with shipping logistics like where's the
+area and opportunity and interest there
+you know what's the landscape look like
+right so i i really want to focus on
+e-commerce i'd probably say 80 of it
+will be marketing focus and then 20
+might just be like current events and
+hot topics of like how does someone fix
+like this ecosystem of like packages
+getting so delayed and you know is there
+any infrastructure
+more more things like that yeah
+uh that's awesome i love it so
+um i've got two last questions for you
+here though
+uh first is you and nick are both very
+prolific on social
+um
+in in terms of content production
+is that the biggest driver of pipeline
+for the agencies right now or is that
+are there other bv channels that have
+worked really well for you guys
+yeah i think i think our content
+creation is probably number one and then
+close second would be um partner
+referrals or client referrals so um you
+know
+my biggest channel is twitter and just
+in terms of audience reach like i'm
+getting like millions of impressions a
+month which is just
+insane um i think i think that's one um
+and then other platforms like coming on
+podcasts you know speaking at events
+hosting events things like that and then
+outside that at this point right now
+with 150 clients that we have
+we have like this kind of breed in this
+kind of entrepreneur type where they
+start one business it reaches seven
+eight figures and then they start a
+second business right we have some
+entrepreneurs that since we started with
+them three three and a half years ago
+they owned three five brands right so
+their client of ours on three or five
+brands however they have we have other
+clients that are really active on social
+that for whatever reason like for
+example chris meade and greg mead
+crossnet those guys shout outs out it
+feels like once a month i don't know if
+they have a reminder that goes off every
+month or if we do something cool they
+just like to share about us but like
+those guys post about us right like now
+you have like this wave and this
+visibility of folks that are building
+action sports or lifestyle sports or
+some kind of games that are reaching out
+so clients referrals and
+content is really big too
+do you have an intentional referral
+strategy in place
+um
+yes no yeah
+we we do pay out every single month ten
+percent um of the retainer to referral
+partners it's always something that we
+try to pay out pretty timely within you
+know 24 to 72 hours of receiving it i
+think people really appreciate that so
+it's kind of something that like we
+didn't intentionally build or we didn't
+put a lot of work into it but as it
+started happening we're like okay wow so
+we've even like in our crm have a spot
+that says where did this source come
+from just that way we don't forget a
+payout referral partners because at one
+point we were growing quickly you know i
+think for a couple months we forgot to
+even like track who it was and we're
+like oh shoot and we obviously had to
+back date all that right so we
+definitely made a lot of mistakes it
+wasn't something that was like
+intentional initially but as we caught
+wind of it we're like man this is a
+super viable channel like we'll pay 10
+all day long because the quality of the
+clients that it attracts is really high
+when people that are like the clients
+that we already have are sharing our
+stuff we bring in more of the people
+that already live with us and work with
+us and jet with us right
+totally unrelated have you played
+crossnet
+yeah i have
+my wife hated the fact that i left it up
+in our front yard for like weeks and
+weeks so those guys are coming up with a
+bunch of new games and uh they send me
+all the stuff first because i've got
+three younger brothers and we just love
+to beat each other up and play sports
+and do the set in the other so we're
+always giving them tons of feedback
+that's awesome that uh i have seen it
+played and i have yet to play it so i'd
+love to
+grab it for your kids i think your
+family would love it they 100 would um
+yeah
+second so my original second question
+was uh we talk a lot about tools on the
+podcast
+are there
+one or two
+uh any lesser-known tools
+that you are loving or nerding out on
+right now or that are kind of core to
+the business but the agencies might not
+you know probably some people heard it
+but it's not uh not google workspace or
+dropbox
+yeah um i think this is a big one but on
+the design side for emails our team
+loves sigma i think it's a big one but i
+don't know if people talk about it much
+or not we used to use like photoshop and
+canva and sketch and some like
+illustrator and we've moved over to
+um figma and our team really loves that
+for actually building design sharing it
+across you know tons of workspaces
+that's one um
+you know other ones that we're building
+like
+other again i'm a little bit biased on
+this one so i might not say it but on
+the reporting side you know there's a
+lot of tools that we were using that
+were expensive and we've been actually
+building our own custom tool but there's
+a couple off the shelf that i've been
+advising and working with trying to help
+them just build something one's called
+triple whale again obviously uh working
+with them advising them but that's kind
+of been an interesting one that i
+actually liked before i started helping
+them
+just because reporting's typically
+expensive and it's hard we are building
+our own custom tools so we are using
+them a little bit and we're trying to
+kind of configure things our own way
+it's been really expensive and really
+hard because we've predominantly used
+clavio and their apis you know obviously
+i love them but their api has been
+super tough to work with so uh it was
+really the big one
+outside that we use all the you know the
+slack the
+you know oh i guess one that is big but
+we love is notion we use notion for all
+of our project management like we are
+obsessed with it we have someone
+literally dedicated full time to like
+making our notion
+calendars and boards and everything
+updated we're trying to like automate
+some stuff we were using click up we
+were using trello we use all those
+things i'm personally in love with
+notion it's insane yeah that's awesome
+um cool we'll link those up sigma i just
+closed it out before we started here
+we're working on some stuff and triple
+whale is try triple whale dot com
+they're right
+now sorry yeah get on there
+one of those okay cool well i'll double
+check it and make sure that we get that
+in the show notes um this is awesome so
+chase folks who want to follow you i
+think you're pretty simple on twitter
+right i'll let you share your twitter
+handle and then anywhere else you'd want
+to point folks here yeah twitter would
+be great um my handle is ecom chase
+diamond no and diamond just d-i-m-o-n-d
+and there's a bunch of links like in my
+bio on there for the free newsletter the
+podcast the youtube the courses so
+follow me on twitter and the link in my
+bio will have everything
+awesome jason appreciate coming on man
+this has been really fun yeah thanks for
+having me thanks for listening to the
+agency journey podcast visit
+agencyjourneyinsiders.com to join the
+podcast community and be sure to
+subscribe for future episodes
+[Music]

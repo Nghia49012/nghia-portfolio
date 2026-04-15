@@ -1,0 +1,232 @@
+hey everyone thank you so much for
+taking the time to look through this
+course that I'm about to create this is
+just our intro video where I just wanted
+to welcome you and thank you for you
+know taking the time I I know that your
+time is valuable and so I really
+appreciate it so to start off I just
+wanted to have a quick introduction my
+name is Eric noski I run an agency
+called growth engine X where we send
+about a million cold emails a month on
+behalf of our customers and uh I've been
+running it at this point for over two
+years and in that time I have
+run countless campaigns on behalf of our
+customers and I think we've learned a
+thing or two uh about cold email and
+outbound that I wanted to share through
+the overall Network I get tons and tons
+of questions all the time people ask me
+for coaching and I just don't have
+enough time to get it to everybody so I
+wanted to launch this course so that I'd
+be able to disperse as much knowledge as
+we possibly can because my real mission
+is to make outbound something that if
+you're going to do it you can do it with
+a best-in-class system at every company
+no matter you know your budget your
+current knowledge whatever it might be
+so that's a little bit about me this
+course is going to aim to cover spec
+outbound marketing specifically with
+cold email a lot of the strategies a lot
+of the techniques a lot of the list
+building that we're going to go over is
+still going to be relevant if you run
+cold calling campaigns Direct Mail
+campaigns LinkedIn direct DM campaigns
+and things like that personally I run a
+cold email agency because it's the most
+scalable for me it uh allows us to talk
+to the most amount of contacts without
+losing somebody's LinkedIn account and
+and managing those kinds of bands and
+things like that and so that's um what I
+focused on in my past and that's going
+to be the focus of this course I do not
+pretend to be an expert in anything this
+course is going to go over a lot of my
+own experiences things that we've tried
+that's worked things that we've tried
+that doesn't work I'm upfront with
+everyone here including uh my customers
+from the past where I tell everybody
+look our email infrastructure that we're
+going to go over is not proprietary if
+you uh go to a website like instantly AI
+or smart lead. and you check out their
+docs about how to set up inboxes and how
+to set up an email infastructure it's
+very much going to be the same thing
+that we do we you know we're not Game
+Changer in in that realm when it comes
+to the copyrighting of campaigns I'm
+going to be giving my thoughts I'm going
+to be giving things that work but I
+think there are far better copywriters
+out in the world we will cover that in
+this course because you know to run a
+cold email course we just have to cover
+that but I am not saying that I'm an
+expert in those things what I uh want to
+bring to the table and what I want to
+give to the community uh if if I can
+make this course great enough to add to
+the Canon of outbound and cold email is
+what I've learned specifically around
+custom data scraping data enrichment
+data workflows Automation and artificial
+intelligence that is is what we have
+focused on with most of our customers in
+the past specifically year like when
+chat GPT 3.5 came out that was a game
+changer for our business and four was
+even better and so in this uh in this
+course I will be covering all of the
+other things um but you know if you say
+like hey you know I found this email
+infrastructure on these websites great I
+I'm it's not mine I I got it from them
+as well and when it comes to copywriting
+if for some reason you disagree with the
+way I do copywriting please test it that
+that's all that cold email is it's say
+always a test and we always want to see
+what's working the best for us and so
+now um to get into like who this course
+is for I think that this course is for
+B2B Founders who want to create a
+predictable pipeline of Revenue into
+their business and outbound is a good
+fit for them so let's first talk about
+outbound as as a good fit so we've run a
+lot of different campaigns and we've
+learned who outbound is for and who
+outbound is is really tough for and so a
+industry that comes to mind that I have
+not been able to crack with outbound is
+cyber security cyber security is really
+tough to crack with outbound I we we
+have done crazy things like look at the
+open ports and the vulnerabilities of
+websites and then email people offering
+to fix it for free and then relating it
+to a cyber security incident that
+happened in their area in their industry
+and we still couldn't get great
+responses it was really tough and and my
+hypothesis there is that when people
+have a cyber security problem what they
+do is they they then go find a cyber SEC
+company people aren't just all the time
+thinking about cyber security so that's
+one instance of where outbound is tough
+another instance of outbound being tough
+is when you're a b Toc company uh if
+you're selling shampoo it's very very
+difficult to sell shampoo to an end user
+but what you could use outbound for is
+in order to get into the distributors or
+find Affiliates and and those kinds of
+things and so then that could work and
+so um yeah outbound it like really works
+when you're a B2B company your LTV of
+your customers is over $5,000 a year and
+um you know you can Target them pretty
+easily by building these kinds of lists
+and so um who this course is
+particularly for um is the person we
+will go over the basics of running cold
+email campaigns and you will be able to
+go from never launching a cold email
+campaign to launching your first one
+what I will say though is I think there
+are a lot of courses that cover that and
+my attempt here is to go beyond just
+that coverage of launching your first
+campaign and I want to teach you the
+tools and the skills to enable really
+custom amazing outbound campaigns um to
+go from a regular outbound campaign to a
+best-in-class outbound campaign in my
+opinion is not is not that difficult and
+the reason I say that and I mean I know
+I'm an agency owner and I'm supposed to
+keep up this facade that it's you know
+the the most difficult thing in the
+world I have seen B2B SAS companies that
+have a brand of running the best
+outbound system in Venture back SAS and
+when I jumped into it to be honest it
+was not that impressive and so I think
+going from average to the top 5% is not
+that difficult to go from the top 5% to
+the top 1% is really really difficult
+and what I want to try to do is to try
+to take you from average to 5% and then
+hopefully if I do my job right in this
+course to take you from from the top 5%
+to the top 1% and so that is my goal and
+when I'm trying to accomplish this the
+way that this course will be structured
+and I have my table of contents over
+here is so this is the introduction and
+then we're going to go into things to
+consider before you're running an
+outbound campaign things to prepare
+things to get ready with and all that
+kind of jazz we'll jump into the email
+infrastructure all the dos and don'ts
+the things that we haven't um the the
+things that we suggest the things that
+we don't suggest all of those things
+then we'll go into data collection on
+the basics of how to build your list
+we'll go over some basics of copywriting
+the basics of the way that I think about
+launching cold email campaigns then
+we're going to make a pit stop and we're
+going to do a campaign right then and
+there where we're going to go over you
+know now that we've put all these things
+together how do you launch your first
+campaign then we'll get into advanced
+list building where we'll be working
+with tools like clay.com we'll do some
+uh we'll work with some scraping tools
+and some custom scraping tools and then
+we'll use you know some other low code
+um Automation and and we're going to
+talk about how to read API docs because
+I truly believe you as a salesperson it
+is your responsibility to learn how to
+use no Code and low code tools because
+they're going to make your workflows so
+so much better we're going to cover my
+thoughts on artificial intelligence and
+how we put them into our own campaigns
+and then I have I think this is going to
+be the best you know most interesting
+thing for everybody I have about 35
+standard playbooks that we oftentimes
+pull out for our customers and we just
+say hey this is the Playbook we're going
+to use I think this is going to be a
+good one um and I'm going to go over 35
+and how we make those those playbooks
+happen and then we're going to go over
+just some fun stuff and then we'll go
+over a couple of like how to analyze
+their campaigns how to follow up with
+positive responses thoughts on scaling
+volume and those kinds of things so if
+that's exciting for you keep going with
+the rest of the course I really hope uh
+you enjoy it and I can accomplish my
+mission of giving back to the community
+that was so great to me by adding to the
+overall Cannon of outbound and you know
+the best in ways to run campaigns
