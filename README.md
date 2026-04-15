@@ -10,12 +10,12 @@ This project documents my process of setting up an AI-integrated development env
 4. **Git & GitHub**: For version control and portfolio hosting.
 
 ### 3. What steps I completed
-Step 1: Installed **Cursor IDE** and set it up as my local workspace. <br>
-Step 2: Navigated the Cursor Extension Marketplace to find and install the **Claude Code** and **Codex** add-ons. <br>
-Step 3: I've already had my Github account, so I only need to create a public GitHub repository and connected it to my local environment via Git cloning.<br>
-Step 4: Collaborated with the Cursor AI Agent to navigate terminal commands and local environment setups.<br>
-Step 5: Drafted this `README.md` to document the journey, issues, and solutions.<br>
-Step 6: Authenticated my Git identity locally and pushed the final project back to GitHub.
+    Step 1: Installed **Cursor IDE** and set it up as my local workspace. <br>
+    Step 2: Navigated the Cursor Extension Marketplace to find and install the **Claude Code** and **Codex** add-ons. <br>
+    Step 3: I've already had my Github account, so I only need to create a public GitHub repository and connected it to my local environment via Git cloning.<br>
+    Step 4: Collaborated with the Cursor AI Agent to navigate terminal commands and local environment setups.<br>
+    Step 5: Drafted this `README.md` to document the journey, issues, and solutions.<br>
+    Step 6: Authenticated my Git identity locally and pushed the final project back to GitHub.
 
 ### 4. Issues I ran into and my solutions
 My setup process involved active problem-solving with the help of AI agents, turning technical hurdles into learning opportunities:
