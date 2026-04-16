@@ -29,3 +29,27 @@ My setup process involved active problem-solving with the help of AI agents, tur
 ### 5. How I Navigated the Learning Curve
 - **Video Tutorials**: I watched "Cursor 2.0 - Full Tutorial for Beginners" to quickly grasp the IDE's interface, core features, and best practices.
 - **AI Consultation**: I continuously interacted with the built-in AI Agent and Gemini to navigate terminal commands and troubleshoot local environment setup errors in real-time.
+
+### 6. My 10 Experts and Why I Chose Them
+
+I try to find these 10 experts based on a few specific areas in email marketing:
+**Deliverability & Security**
+* **Jesse Ouellette:** Selected for his deep technical expertise in agentic workflows for outbound deliverability.
+* **Lauren Meyer:** Selected because she's an expert in technical SMTP configurations and actual mailbox provider behaviors.
+* **Tobias Knecht:** Selected to bring hardcore security insights. He proves that basic setups like SPF/DKIM aren't enough, real email trust is built on IP history.
+* **Simon Bressier:** He teaches how to actively monitor blocklists and dodge hidden technical traps before they ruin a campaign.
+
+**Data, Growth & Lifecycle**
+* **Jay Schwedelson:** Selected because his advice is backed by billions of real B2B email data points, actively debunking outdated marketing myths.
+* **Chase Dimond:** Chosen for his incredible track record ($200M+ generated for clients). He brings battle-tested lifecycle automation flows that turn new subscribers into long-term buyers.
+* **Matt McGarry:** Selected for his mastery of audience growth. He provides the exact frameworks and high-ROI paid ad strategies needed to rapidly scale a newsletter base.
+* **Eric Nowoslawski:** Chosen for his elite outbound systems. He teaches how to combine tools like Clay with real-time intent signals to put highly targeted cold outreach on autopilot.
+
+**Copywriting & Voice**
+* **Eddie Shleyner:** Selected for his expertise in persuasion. He shows how to use personal experiences to write authentic, highly engaging stories.
+* **Ann Handley:** Chosen to keep our email copy human. She teaches how to write with a distinct personality to stand out against generic, AI-generated corporate emails.
+
+### 7. What I Collected
+To support the playbook, I gathered authentic, practitioner-led content across two main mediums:
+* **`/research/youtube-transcripts/` (7 Files):** I collected raw, English transcripts from deeply technical videos, tutorials, and summit panels. *Note: For Lauren, who does not spend much effort on her YouTube channels, I dynamically pivoted to collect their guest appearances on B2B industry podcasts.*
+* **`/research/linkedin-posts/` (10 Files):** I collected 30 meticulously curated, high-signal LinkedIn posts (3 per expert), beautifully formatted in Markdown with extracted **Core Insights**.
