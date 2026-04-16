@@ -67,5 +67,5 @@ I curated these 10 experts based on specific, highly technical areas in B2B emai
 To support the playbook, I gathered authentic, practitioner-led content across two main mediums:
 
 - `**/research/youtube-transcripts/` (7 Files):** I collected raw, English transcripts from deeply technical videos, tutorials, and summit panels. *Note: For Lauren, who does not spend much effort on her personal YouTube channel, I dynamically pivoted to collect her guest appearances on B2B industry podcasts.*
-- `**/research/linkedin-posts/` (10 Files):** I collected 30 meticulously curated, high-signal LinkedIn posts (3 per expert), beautifully formatted in Markdown with extracted **Core Insights**.
+- `**/research/linkedin-posts/` (10 Files):** I collected 30 high-signal LinkedIn posts (3 per expert), beautifully formatted in Markdown with extracted **Core Insights** (created by my AI Agent).
 
