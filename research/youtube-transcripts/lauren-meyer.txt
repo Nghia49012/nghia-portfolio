@@ -1,0 +1,1293 @@
+Welcome to the making sense of martekch
+podcast where we interview leaders and
+put them in the hot seat. I'm Jacine
+Freriedman, founder of Monarch and
+global head of advisory for Mart weekly.
+Let's dive in and meet Lauren Meyer, the
+chief marketing officer at Socket Labs.
+A little bit about her first. With a
+background in deliverability,
+anti-abuse, and email strategy, she has
+built a reputation of transforming
+complex email data into clear,
+actionable insights. as the former vice
+chair at Mong and the voice behind Send
+It Right. She champions consent based
+marketing and prioritizes trust and
+transparency. Welcome, Lauren.
+>> Welcome. Thank you very much for having
+me. It's nice to be here. I do champion
+all those things you mentioned. Woohoo.
+Let's go.
+>> Awesome. Well, to start us off, we'll
+begin with a few quick questions to fire
+things up like a good IP warming. So,
+first and foremost, what is the first
+Martekch tool you've ever used in your
+career? Okay, so I don't know if access
+counts, but I used to do a lot of access
+database work in my first email job
+because I was processing like
+suppression files for a whole bunch of
+companies. But let's move on to other
+things like I, you know, I worked in
+affiliate marketing space. So the
+company I worked for was using
+simultaneously get response, mail, mad
+mimi, vertical response, like basically
+any ESP that kind of existed back in
+2007. So yeah, I got to use all of them.
+It was
+>> slim pickins then compared to today.
+That's for sure. All right. What is one
+marketing buzzword you wish you could
+ban forever?
+>> It would have to be the blast. It is
+just so aggressive. I just, you know,
+it's one of those like first email
+provider that I was using for my send it
+right newsletter used to call it a blast
+and they've actually changed that to
+something that's much more positive now.
+So, it's one of those like I feel really
+good about that. Like kudos to you guys
+who did it right.
+>> Are we going to just announce who made a
+change for the better?
+>> Squarespace is
+>> good job Squarespace. Good for them. I'm
+glad they did the right thing.
+>> Okay. What is the biggest marketing
+mistake or mess up you've witnessed or
+done yourself?
+>> Okay. Well, thankfully it wasn't my
+mistake, but when I was working for a
+past ESP as like the head of
+deliverability, I was dealing with the
+aftermath of one of our customers who
+had just transitioned from their past
+ESP. And without them knowing it, that
+past ESP had been like automatically
+handling their suppression files and all
+the the people that, you know, were
+complaining and unsubscribing for the
+entire time they were there. And I think
+you know where this is going. So once
+they transitioned, they didn't download
+and apply that suppression file to their
+contact list. So on their first send
+through us, they generated a little more
+than like I think like 3,000 spam
+complaints. And it was such a massive
+number like on like, you know, 200,000,
+you know, contacts that they're sending
+to that they didn't believe it, right?
+Like they were like, "This must be a
+reporting issue. This must be you. This
+must be something you're doing." And
+we're like, and even I was like a guy
+like this is wrong. This can't be right.
+Lo and behold, it was correct. It's just
+that, you know, those real complaints
+were coming from people who had been
+suppressed in some cases, you know,
+hadn't been mailed to in like more than
+two years. And some of them were spam
+complainers. So really, really painful,
+right?
+>> Makes me very glad whenever someone asks
+for kind of quick migration advice. My
+first thing is back up your unsubscribed
+list no matter what.
+>> The only thing that's potentially even
+more important than your actual contact
+list that you're sending to, right?
+>> Without a doubt. Oh man, that is like
+giving me heart palpitations thinking
+about it.
+Okay. So, what is one tool you cannot
+live without as a deliverability first
+marketer?
+>> Okay. Fine. Right. And I think um a lot
+of times people are going to probably go
+to like Google Postmaster tools, which
+is very important. Everyone should be
+signing up for that. But my favorite one
+is about my email. So, it's actually you
+can go to it at about my email. That's
+the email that would be the website
+address. This is something that was
+created by Steve Atkins from Word to the
+Wise. And it just it kind of gives you
+that like immediate reality check on
+your email configuration. And it was,
+you know, it's built by Steve who is a
+very technical person. He's smart. I
+trust him to like kind of understand
+compliance and all the nuances of those
+different mailbox providers. And Marcel
+Becker from Yahoo. He's the postmaster
+there actually previously said like if
+it passes about my email, it's very
+likely compliant with Yahoo. Right. So I
+think any large scale sender who's ever
+had an issue should plug it in. You
+know, you just add it to your contact
+list. It's just it makes you feel good.
+Yeah. So check it out.
+>> I love a free tool that is, you know,
+approved by the Postmasters. That's all
+you can ask for.
+>> You don't get that stamp of approval
+very often. Yeah,
+>> exactly. All right, last rapid fire
+question you ask everyone. Yeah.
+>> Who is someone you admire, whether it's
+professionally or personally?
+>> All right. Well, I'm going to go with
+Jennifer Nispolance, who is within the
+email industry. Hopefully, you know, a
+bunch of you know her. She's currently
+working at Kickbox. She's got this like
+sense of calm and she's patient with
+customers and with everybody else. She
+cares a lot about her role and the
+responsibility of like doing right by
+email and like working in anti-abuse and
+like when we go to conferences, she's
+that person that you know, she's a great
+moderator, she's a great speaker, but
+she also just asks these questions, you
+know, just coming from this place of
+like curiosity and it's like one of
+those where you're like, man, like I
+kind of barely understand that question
+that you're asking because you
+understand the technical nuance of
+everything, right? She kind of, not to
+say she doesn't care what people think,
+I'm sure she does, but she just has this
+kind of attitude that's just funloving
+and she's a big person to be around. So
+>> yes, and she is excellent at moderating
+panels. I saw her at Inbox Expo just
+kill it.
+>> She's just hilarious too, right? She
+always works in some comedies, which is
+just my favorite thing.
+>> Hard to do. It is very much so.
+>> All right, to set the stage a bit a
+little bit about you. So beginning in
+email in 2006 after pivoting from
+finance, you fell straight into
+deliverability and never looked back.
+Now as a CMO, which transition
+throughout your career challenged you
+the most? Yeah, you know, and I think
+know obviously there's a lot of
+challenges in marketing in any role
+really that you're in when you're
+working in like a SAS company, but you
+know, I just I spent so many years like
+staying in my lane, you know, like
+fighting for deliverability, pushing for
+best practices, playing like the
+compliance cop or like the Debbie
+Downer, right? Like you're never really
+in the company money. You're always kind
+of burning people. When you're in
+deliverability, you're usually just
+called in after something's gone wrong.
+And so you dig into the data, you find
+the thing that's broken, you fix it, and
+boom, like measurable outcome,
+everybody's happy, right? But in
+marketing it's like a whole different
+ball game where you know I wasn't
+prepared I guess for like how subjective
+or maybe like how squishy it is. Like
+you rarely get that kind of data
+backarity like you know everybody has an
+opinion and suddenly you're just you're
+kind of like the one who's like pitching
+these ideas. you know, attribution is a
+mess, particularly when you know, just
+it takes dozens of touch points and
+repetition and emotional contacts and
+trust building, like all of these things
+maybe to get somebody to care and then
+eventually for sales to do their thing,
+right? Like we have all this evidence
+that proves that people don't approach
+brands until they're basically kind of
+ready to buy. Like they've done most of
+their research and they just kind of
+need you to not screw it up, but like
+you need to get on that list. Like you
+need to be in the realm where they
+understand you, right? And I think it it
+just it took me way too long to realize
+the fact that I really need to like
+advocate just as hard for marketing
+within my own company, right? Like it's
+just you're asking these people to kind
+of like trust this narrative that you're
+building and maybe they don't agree with
+it or they don't really get it. You just
+don't get those like aha it's broken.
+Like that's it's just so easy for that
+mental shift from like fixing problems
+to kind of just living in this gray area
+all the time. I think has has just been
+been really kind of a you know a hard
+corner to turn. And I think it's like I
+still kind of suck at it to be honest.
+And you know, it's like if you're old
+enough to have seen Zoolander, just
+maybe like I'm just have a hard time
+turning left. Right.
+>> But I'm working on it still.
+>> Yeah. It's hard to have quick when when
+you're so used to quick fixes and
+immediate.
+>> Exactly. Yeah. And it's like you really
+have to build that foundation. And I
+think a lot of times like people in
+organizations don't understand
+marketing. They're not in marketing and
+so they don't get how important it is to
+kind of like build those foundational
+like your what is your ICP? Who are you
+going after? What is your your kind of
+your market your audience? You can't
+skip that. And I think that's where like
+I sort of did because everybody was like
+it doesn't matter because nobody was
+really a marketer enough to to kind of
+know how important that stuff was.
+Right. So don't skip it. It's like go
+for it.
+>> Yes. Don't skimp it. Just like I
+wouldn't assume I'm a full stack
+engineer, don't assume you're a marketer
+just because you consume marketing.
+>> Yeah. Right. Like just because you think
+that you have a really good name for a
+mascot for our company, don't share
+that. Maybe.
+>> Exactly.
+>> So you are an advocate and often talk
+about consent based marketing. Should
+every marketer what's the most
+misunderstood myth about this growth?
+>> You know, I do talk about consent, but I
+think there's a big difference between
+like consent and attention. Like you
+still have to earn the attention. Like I
+feel like there's a lot of marketers
+today that are still kind of operating
+under this assumption that once you get
+someone gives you their email address,
+you're golden, right? Like cool, let's
+just go. This is great. We've got their
+consent. We can do what we want.
+>> That's just the beginning of the
+relationship. It's almost like you're
+just having like this handshake with
+someone, right? And I think the real
+challenge that we need to be focusing on
+is not the consent, it's staying
+relevant. It's staying memorable and not
+becoming kind of like this like this
+buzzing fly that's sort of just in their
+face within their inbox, right? And I
+think, you know, the bar has been set
+higher now that people are drowning in
+so much technology and so much noise and
+so much AI. So, you know, I think it's
+just you have to move beyond, you know,
+did they opt in? I think it's more like
+why did they opt in? What did we promise
+to them? Are we delivering on that
+promise in a way that's actually worthy
+of their time, not, you know, just
+benefiting us? So, I think we really
+just need to get like a little bit
+creative with the way that we get
+attention from folks. And, you know,
+like Gmail now is offering that
+subscription management center, right?
+So, users can see how often brands are
+emailing them. And they can also check
+out the content that they're getting.
+So, like in a split second, within a
+couple clicks, they can decide if you're
+welcome in their inbox anymore or not.
+And then the unsubscribe button is right
+there, too. So, I think it's just it's
+not about consent. It's really about
+everything that comes after that, right?
+Like, are they going to shake your hand
+and then become your friend or just kind
+of be like that guy's weird fishy
+handshake, right? So, I think, you know,
+you want them to feel good about your
+brand. And I think that's something that
+people often forget, especially when you
+have those very large lists and you
+start to see just the numbers and not
+remember the specific people that are
+behind those email addresses.
+>> Agreed. So, what I'm hearing is one
+setting expectations both for your own
+internal team, but also the customer.
+Mhm.
+>> But also in addition actually providing
+something of value to them as opposed to
+value to you as a business.
+>> Yes. For sure. Right. Like put them
+first. Like it's not just like a a way
+to say it. It's not just meeting up your
+like book practices. Like it really is
+actually how you succeed. How you build
+like loyal followers as opposed to like
+just people that are like I get this in
+my inbox. Maybe I'll look for a sale.
+>> So you've risen now to executive
+leadership. with this experience under
+your belt, how do you level set with
+brand side and teams thinking through
+consent?
+>> Yeah. So, I think, you know, this is one
+of those where like I feel lucky for the
+fact that I've actually spent like most
+of my career in the trenches. And so, I
+get to, you know, kind of look back on
+that and remember all the pain that I
+felt along the way as that practitioner.
+But I also try to stay like really close
+with the people in my own company who do
+talk to our customers, right? We're just
+we're talking about their customer use
+cases, weird bugs that they're facing.
+So we have to figure out like oh it's
+not just like do we have good tech it's
+what's your experience like what happens
+when we actually help you if we do help
+you right so I think those kind of
+conversations help me stay grounded so
+that I'm like kind of speaking from a
+place of reality not just theory or
+things that I knew a couple of years ago
+and then I also like I host these these
+virtual roundts at socket lab it really
+like anytime you can join like sessions
+where you're in a room with other people
+who sit in your seat or who are like
+close to your seat I think it just it
+gives you that chance to kind of jam out
+with other people and really just come
+up with some good ideas and these for
+all people that are living in the weeds
+and like dying to help and dying to like
+be helped and have ideas. So, I think
+it's just having all of that kind of
+awareness around me really just helps me
+like continue to understand what
+challenges they're facing. And I think
+got to kind of think about the fact that
+it's not just like, oh, you got to
+follow the best practice. It really is
+like what are the bandwidth issues,
+right? Like who's on maternity leave,
+who's out sick, who's on vacation for 3
+weeks because they went to Europe. Like
+there's all these things that you're
+doing. You're chasing approvals. You
+know, you've got these unclear briefs
+that kind of just get twisted in
+translation. Like there's just there's
+all these things that marketers are
+dealing with and understanding that
+bandwidth really just like it's not
+infinite. Like there is a line there are
+places where momentum stalls or
+leadership just changes their mind and
+shifts gears and goes in a different
+direction and all of a sudden your top
+priority project is just like never mind
+like we're not even doing that. So like
+I think sort of being aware of that and
+being aware of like the constraints that
+marketers live in from a technology
+perspective, you know, just trying to
+give people that empathy and come at
+solutions from a place of creativity,
+right? Like it's not just like here's
+what you do. It's like, okay, well
+here's what you could do. Here's another
+way that you could do that based on what
+you've told me about the way that your
+technology works or your business model
+works. I don't think this is going to
+work for you. So here's another option
+or like throw it to them and let them
+kind of just figure it out based on the
+proper amount of context that you're
+giving them. let them understand the
+issue but not from like start talking
+about SMTP protocols.
+>> It's so much more fun to
+>> Yeah, it is. But only if the person's
+nerding out with you, I think, right?
+>> Yes. Well, speaking of nerding out,
+email marketing is often treated kind of
+like plumbing. Essential, but
+underfunded, not very sexy, not very
+interesting. How did you fight for email
+seat at the strategy table? Yeah. So, I
+think one of the best ways that I've
+seen people win here, especially on that
+memory brand marketer side, is by
+running small proof of concept tests and
+actually somebody from a massive brand
+joined one of our roundts recently and
+was just talking about this of just like
+you know if you can show the thing that
+you're asking for is already showing
+traction even at like a really small
+scale like this company has multiple
+global regions and kind of subsidiaries.
+So like if you can just test with one of
+those and see some success that could be
+the thing that you need to kind of prove
+this out, right? Like maybe it's as
+simple as like even just testing
+messaging on LinkedIn and then turning
+that into like the basis for an email
+campaign as your best performing
+content. It's just like you're bringing
+data to the table and you're not asking
+for like a huge budget up front. you're
+just saying like look we did this thing
+with duct tape or with you know limited
+resources and it worked and it's
+something we should try to pursue like
+now imagine what we could do with proper
+support behind this right so I think
+it's email doesn't just look strategic
+and you know because you have to connect
+it to like the business goals right like
+I think often times there's just this
+huge disconnect between the two and so
+kind of getting into the minds of
+executives like they aren't ignoring
+email because they don't care they're
+ignoring it because they don't
+understand it you know they don't really
+get how it connects to their goals
+because nobody's told them like for
+marketers, we're so busy marketing
+externally that we forget about
+explaining this stuff internally. So
+like I think trying to get into those
+mindsets of like are they trying to just
+get leads to grow revenue? Are they
+trying to get acquired? Is there a big
+partnership move in the works that you
+can get involved in? Like how can you
+tie your email program to those things
+that matter? So it doesn't just feel
+like plumbing, right? It's not just
+running in the background. It actually
+is something that is going to drive
+business impact. So I think that's yeah
+start the marketing internally because
+you know as much as I wish it was your
+job is not just doing email it's
+translating that value into something
+that's going to get you buy in. That's
+really good.
+>> Yeah translating and I imagine your
+finance background helps a little bit
+with some of that translation too.
+>> You know you would think so but I
+actually used to fall asleep every time
+I did my like series 7 study. So like I
+just Yeah. I was like this isn't for me.
+I think I need something.
+>> Fair enough. If there's one theme that's
+followed me at every stop in my martekch
+career, it's trying to get good data
+into the hands of marketers. That's why
+I'm so excited to tell you about our
+sponsor, Hightouch, a leading composable
+CDP and AI decisioning platform.
+Companies like Domino's, Chime, Aritzia,
+and PetSmart trust Hightouch to power
+their data. And here's the kicker. 90%
+of customers have a real use case live
+in production within their first week.
+That means you can implement a
+world-class CDP in months rather than
+the usual yearslong headache. That's why
+top brands choose hightouch to
+personalize every customer interaction
+at scale. See what hight touch can do
+for you at hightouch.com/ms.
+>> All right, shifting gears a little bit
+to talk a little bit more about the
+techie side. You've previously said, and
+I think everyone should know this by
+now, but they don't, ad data is the root
+cause of mobility issues. How should
+marketers rethink data hygiene both at
+signup and for the long term? And how
+does your advice change from B2B to BTOC
+clients? Yeah. So, I think I mean, you
+know, across the board like everyone
+needs to get permission if possible.
+Like, you know, I know some of you can
+still send cold emails, so like I'm not
+going to speak to you and give you
+ideas, but like you should be speaking
+to people who are going to receive that
+email well, who hopefully like are
+expecting to receive it. So, I think
+that's for everybody, but you know, I
+think more specific to B2B, like you are
+going to probably see like a higher
+churn rate on the email addresses. You
+know, people are switching jobs, so
+those email addresses go dark. So, let's
+say if you're only mailing quarterly or
+if you've just got like this one big
+push that you do every year, like you're
+kind of setting yourself up for a lot of
+hard bounces that potentially could lead
+to deliverability issues. You know, I
+think it's if you're sending more
+consistently, what you'll see is that
+those inactive addresses kind of get
+phased out like a little bit more
+organically and they look more normal,
+right? The rates don't really spike up
+that one time you send a year. So, I
+think it's it really helps you kind of
+just like, you know, meter that out. So
+I think just you know give people the
+option to sign up with their personal
+email address as well. I think that's
+the other thing is you know within B2B
+we're so focused on like knowing the
+company that they work for so sales has
+a lead to chase but like people do
+switch jobs and so I think at that point
+you've lost the thread. Like that's the
+end of your story with them. Right? If
+you choose to provide them with the
+ability to have like a Gmail or a hot
+mail address, not only are you serving
+people who maybe don't have a job right
+now who might get a job and be working
+for a company that you're trying to
+actually reach or something like that,
+but if they're choosing to give you that
+personal Gmail address or hotmail
+address, it's actually like a really
+strong signal that the content that
+you're sending actually matters to them
+enough to kind of allow you into that
+personal space. And I think it it kind
+of helps keep that relationship alive if
+they pop up in another company because
+you've already kind of you just stayed
+present in their life instead of waiting
+for them to kind of to reopt in with
+their new email address. I think the
+other difference probably is engagement
+looks different. Really low opens
+because a lot of B2B filters don't
+preload those images, right? Like my
+Socket Labs inbox, our IT team has
+turned them off by default. So even if
+I've read your email, you're not going
+to know that, right? Other mailbox
+providers or filters, they open into
+basically everything. So you're going to
+think that you're open to great and
+you're like, "Oh my gosh, we have such
+high engagement." And you don't. So I
+think it's don't really obsess over your
+engagement rates, particularly in B2B,
+because those mailbox provider filters,
+those, you know, third party filters are
+much more focused on your bounce rates.
+How high is your spam complaint rate?
+And is your authentication and your
+configuration correct? So pay more
+attention to that kind of stuff, right?
+Are you triggering blocks at proof
+point? Other places.
+>> That makes sense. And kind of gearing
+into what socket labs is building, it's
+around insight driven infrastructure. I
+have a question outside of us nerdy
+folks who like to know these details. Is
+there a risk in giving marketers too
+much data without the skill to actually
+interpret it?
+>> Yes, absolutely. Like I couldn't agree
+with anything more probably in the
+world. Like I have seen so many
+marketers who are just drowning in
+dashboards who have like the most
+expensive tools on the market and they
+admit like I don't really understand a
+lot of that stuff. So I really just kind
+of see on the dashboard like that
+actually tends to be enough for a lot of
+people until you have an issue or until
+you've got a lot of complexity. Like you
+just see all these graphs and metrics
+but you don't know what they mean. So
+you know just it gets lost right and
+then you have this paralysis and you're
+kind of chasing false assumptions and
+there's just all this noise that's
+happening. So I think you know it's a
+real question that we're trying to solve
+is like you know what decision is this
+data actually helping me make right? If
+it's not actionable what's the point of
+telling you it's not helping you with
+anything. it's just giving you stress or
+confusion, right? So, we're trying to
+simplify things by really directing
+customers to like where the problem
+lives first. So, it kind of like, you
+know, it's bucketed into a couple of
+different issues like maybe it's
+engagement or list hygiene or it's your
+authentication, things like that. So,
+that you can kind of jump past that
+initial question of like what's wrong
+when you're just shaking and sweating,
+right? And just jump right into like the
+problemolving mode, you know, really
+just give proper context to people so
+that they can focus on what matters. And
+I think this is like a great place where
+AI can actually shine like not just as a
+content generator like it is now but
+really you know moving beyond even just
+like data aggregation but just like what
+is the way that we can make this easier
+for people to make decisions and then
+take action on those decisions right so
+imagine if you could say like why did my
+bounce rate spike this week or why did I
+get blacklisted and it gives you an
+answer and then it says here would you
+like to create a rule within your
+configuration that helps you bypass this
+issue next time or separates the traffic
+because it was based on this thing like
+so that's where we're going like we're
+not there yet, but I think that's the
+dream, right? Like that's where we're
+headed and focusing on.
+>> That's exciting. And I love that you
+really honed in on certain marketers
+that to most would be in the most
+luxurious, most advanced place. You've
+got all the dashboards, which is in of
+itself a feat. But if you could ban any
+metric from a dashboard, what would it
+be? So much power. What do I do?
+Honestly, this is like the easiest
+question. It's the inbox footprint rate.
+Like, you know, people put so much
+gospel into this rate and it's the first
+thing I hear. It's not like my delivery
+rate is 98%, it's my inbox rate is 99%.
+So I don't understand there shouldn't be
+a problem. And I think it's really
+important for people to understand, and
+a lot of people don't understand this,
+that those inbox placement rates tend to
+be based on seed testing where the
+vendor basically just like adds a bunch
+of fake Gmail addresses and Yahoo
+addresses, let's say like 20 of each of
+all these different mailbox providers,
+and then they just track where your mail
+lands, right? But the problem is those
+addresses are are robots essentially,
+right? They're not opening, clicking,
+and and kind of like engaging the dermal
+box the way that you do, right? They're
+not opening that one email 15 times and
+then moving it to a folder and then
+forwarding it to a friend and then
+another one you open once, but then like
+you don't like you're doing all these
+kind of weird things within your inbox.
+And mailbox providers can see that,
+right? Like they have this kind of data,
+so they can tell the difference. They
+know the difference between a seed test
+and a real human. So even if you know,
+Bobby robot one two three at Gmail goes
+to the inbox, it doesn't mean that my
+production list is actually going to the
+inbox, right? And I've seen so many
+people just panic because their inbox
+rate tank even though nothing actually
+changed in their real life metrics when
+you look at their opens and their clicks
+and their delivery rates and things,
+right? It was just the seeds which were
+wacky, right? At the same time, I've
+seen people that totally ignore
+deliverability issues when those do pop
+up because the seed test said that
+everything was fine or because they're
+just they're so tired of chasing past
+false positives that now they're burned.
+They're like, "No, I'm not chasing that
+one. Like, forget it. It's obviously not
+real. It's fine." Right? So I think it's
+remembered that the inbox rate is not
+real. It's not driven by data that's
+coming from the mailbox providers who
+know what actually went to the inbox and
+it's not driven by recipients. Not yet
+anyway. Like they don't have that that
+information. So it's just creating this
+false sense of competence or false
+alarm. That's just it's dangerous. So
+like let's just ban the word inbox
+placement until we know that it's real.
+Okay. Right. And just be careful with
+your seat tests.
+>> I love that. And the market is full of
+vendors promising us the inbox
+placement. How you one obviously it'd be
+nice if we could ban it from every
+dashboard but how can buyers and
+customers really distinguish between a
+signal and sales fin.
+>> Yeah. Well, I think it's you know top of
+the mountain I would say like if anyone
+ever guarantees inbox placement or
+really kind of anything within email run
+because like you know the only thing
+they can guarantee is when it doesn't
+work they'll give you your money back
+like they can't guarantee what goes to
+the
+>> only have a good service level agreement
+in place with you that you've
+negotiated.
+>> Right. Yes. Exactly. So no, I think
+that's obviously the fastest the biggest
+red flag out there. But what a vendor
+can do, I think, is you explain your
+risks when you're migrating, when you're
+doing certain actions within your
+day-to-day kind of, you know, program if
+they're helping you fix problems like do
+you reach out and you get a response
+from a human? Do you get a response via
+Slack or a ticket? Do you get a response
+from AI? Because I've heard that there
+are huge companies in our industry who
+laid off other people and now are just
+using AI responses for everything you
+know. So, it's like, you know, you can
+have that kind of support or you could
+actually talk to a human. So, like, what
+kind of experience do you need based on
+your experience level and kind of the
+things that you're good at and the
+things you think you're going to need
+help with? And then, of course, like you
+need to have the tooling to get the job
+done, right? And to make those smarter
+choices as well. And I think we've got a
+couple of those pieces within most ESPs,
+but especially when it comes to making
+smarter choices and like being like,
+"Oh, I have an idea. I should do this."
+And then actually doing it, I think is
+is really hard. This is where I think
+support matters a whole lot because they
+can walk you through this stuff, right?
+If you could have the fanciest platform
+in the world, but if it breaks and you
+don't know how to fix it, like you're
+toast, right? That's the end of it. So,
+I think it's just, you know, ask them
+not just about the tech, but like who
+will be there? Who am I actually going
+to be talking to when the send fails,
+when the bounce is super vague and I
+don't know what to do, or when the IPs
+are blacklisted, right? Like we have
+people like Brian Godson, one of the
+most talented deliverability people I've
+ever met, who's the person who's your
+tickets versus some of this other stuff.
+So I think that's the real
+differentiator. But just do your due
+diligence, right? Like whatever ESP is
+best for me probably not best for you.
+It just depends on our goals are super
+important.
+>> Yeah. To overlay what you said in
+particular, I consider customer support
+success as a product in and of itself.
+And if you are not actively, and this is
+any vendor, not just deliverability or
+ESPs. For me, that's one of the most
+important building blocks. Uh will this
+vendor work for my needs? What is the
+remediation plan and approach? Do they
+blame the customer? I've come across
+that before and so I'm a huge proponent
+of really digging deep with the customer
+support, customer success tiers and also
+current customers and when things went
+wrong asking them what happened.
+>> Totally. I love that. Yeah. I think it's
+tough like as a marketer like you can't
+really shout about your customer success
+because everyone does, right? Like
+everyone's like we have the best support
+ever, you know? So like it no one really
+believed but there are ways if you dig
+if you poke at that question a little
+bit you will get answers that give you a
+good sense of like what the real reality
+is going to be.
+>> Yes. And pro tip if anyone says they
+have an award for their customer support
+success look to see if it's paid for.
+Just putting that out there.
+>> A big marketing budget not a big support
+team. Right.
+>> Correct. All right. So taking a step
+back and thinking about the industry at
+large when finally Apple their mail
+privacy protection and shifting inbox
+tabs has finally caught up with Gmail 10
+years later. How should marketers rely
+less on opens and more on meaningful
+engagement?
+>> Yeah. And it's funny because like, you
+know, I feel like male privacy
+protection really just put thought on
+the fact that opens are not a very
+reliable metric. So, it's just kind of
+like, yeah, okay, cool. And like, so now
+it's almost become trendy to like dunk
+on open rates and just say like they're
+noisy. They're just trash. But despite
+the noise, like bots, there's image
+preloading, there's privacy changes that
+are happening, like they all are going
+to mess with your numbers. And that's
+true of click well. That's even true of
+conversions. Like attribution is messy.
+So open rates in my mind, especially
+when it comes to deliverability, are
+still very useful if you use them
+directionally, right? Like open pixels
+don't get triggered when mail's going to
+the spam folder. So figure if you've got
+like open rates that are typically 40%
+and that drops to like 6% with Hotmail.
+You know that you probably have a spam
+folder issue as opposed to just like as
+soon as fast of an email, right? So I
+think it there's ways for you to kind of
+like look at that data and just, you
+know, over time as far back as you can
+go and say, are we just trending
+downwards? Is there something we can do
+with that? Is this a list collection
+issue where we're bringing in people
+that are less engaged? Is this just that
+our content is the same thing all the
+time? Like what is the problem? But I
+think open rates are part of the story
+to tell that. But then I think it's, you
+know, how can you track other metrics
+downstream but more reliably perhaps
+like clicks again faulty as well oftent
+times inflated and things like that. But
+what about conversions? Like what about
+replies? Is there a way that you can
+like insert a poll into your email that
+kind of like, you know, has a different
+kind of engagement that lets you know
+maybe it's, you know, it's from a real
+person? Even just like website visits,
+right? If you're in like direct to
+consumer and you get purchases directly
+from email, like when you hit send at at
+10:15 a.m., do you see a little bit of a
+surge on the website and a little bit of
+surge in revenue? Like those are things
+that you can track more reliably and
+trace them back to email a little bit.
+But yeah, you really kind of have to get
+creative and and just find ways to like
+build your email content to drive other
+types of engagement that would be like
+more trackable, more meaningful activity
+that you can kind of trust a little bit
+more, right? Like you know, at the same
+time, I think just remember that
+engagement really isn't the end all
+beall. Like there is a lot of stuff that
+happens downstream, but also like
+sometimes even your best readers are
+just not going to open. They're not
+going to click. Maybe they read the
+subject line, maybe they see your brand
+name. It still helps. So I think it's
+like look beyond the metrics and just
+try to track behavior across like all of
+these different touch points if you can.
+>> You make it sound so easy.
+>> I got one eye.
+>> I'm in full agreement ever more with
+vanity metrics or just signals. Use them
+directionally to understand where to go
+and that's it. Nothing more, nothing
+less
+>> in advertising and just not have that
+signal at all. So like it's not as bad
+as nothing. Use it properly. Right.
+Responsibly.
+>> Yeah. Exactly. Speaking of
+responsibility, AI is just everywhere
+and sending email, everything is just
+still very manual. No matter how many
+companies tout AI, where do you see AI
+incrementally rearranging email
+marketing tooling or how use email? We
+haven't really seen major platform
+shifts yet that went from I am coding in
+Dreamweaver or NB free in my white label
+Wizzywig.
+>> For sure. it feels like we had just kind
+of that wave of like oh I can build this
+thing and it's like I can be the first
+to market or it's just it's like the
+easiest thing that they could build and
+they're kind of just getting their feet
+wet with AI. So I think that's kind of
+where like a lot of those like
+generative content sort of things came
+from. I have seen a couple of other ones
+that get deeper into like segmentation
+or things like that. But I think the the
+problem that I see today is just that a
+lot of these tools like they're not it's
+not based on data enough. It's not in
+like you said it's not integrated into
+your workflow. It's just it's very
+generalized data. They don't understand
+your audience. So, I think usually what
+you would get from those kind of like
+more like data driven results is is just
+kind of like me. It just it's not really
+good enough. It might pass the test a
+little bit, but it's not really point
+for your audience. So, I think that's
+where like you're going to fall into
+that sea of sness and never really kind
+of get past it. So, I think you know the
+next wave that I see like the next kind
+of iteration is going to be starting to
+use the data more responsibly, right?
+like you know mailbox providers, ESPs,
+everybody's been using like machine
+learning data for like years and years,
+10 years, 20 years, right? Like they've
+had this and I think now it's just like
+you have to figure out how to get the
+data structure and all of the context
+into an AI so that you could sit it on
+top of your data and say tell me this,
+do this, do that. But if the data is
+trash or if it's just not organized in a
+good way and you're not kind of, you
+know, giving right prompts and adding a
+ton of context and then, you know,
+factchecking that context and all these
+things, it's going to be trash. So, I
+think it's just a matter of we're going
+to see some tools come out and we need
+to kick the tires and make sure that
+those actually like those results are
+real and those make sense and they're
+kind of helping us achieve our goals.
+But like we'll eventually get to where
+and this is what we're building is just
+really using our email people to like
+build something that is very data
+driven, very email data driven and it's
+factoring in all these things and
+there's waitings but doing it very
+incrementally, very slowly and not
+releasing it until we're right. So, I
+think, you know, it's just we're going
+to see less people just being like, "Oh,
+like write my newsletter and populate
+the images." Like, I think it it really
+is going to be more
+>> like, "Help me keep my system from like
+blowing up. Oh, like help me diagnose
+this problem." And so, like, AI could
+become that real co-pilot, but I don't
+think it can replace a lot of the work.
+There's just spaghetti all over the
+place, right? Like there's this system
+over here and it doesn't talk to that
+system. So, there's a human that kind of
+needs to be that delivery person between
+all this stuff and and make it work.
+>> Agreed. And speaking of kind of trash,
+maybe taking out the trash in that
+regard, cleaning up. You've been
+obviously very vocal about consent and
+cleaning list practices. What is your
+take on brands who are still buying
+lists in the year of 2025? Are they
+delusional? They desperate or that's
+completely dysfunctional.
+>> I honestly think it's probably all of
+the above, a mixture of all of the
+above. There was a marketer who worked
+for my company a couple of years ago who
+was like, "Everybody buys lists." Like
+he told me that when I put that info
+blog post of like, "You need to not be
+buying lists. You need to get
+permission." and he was like, "That's
+just the most boring old advice ever."
+And I'm like, "But it's the most
+important, right?" Like, it still
+matters. Just because people are doing
+something doesn't mean that it's the
+right thing to do for your business
+because it's, you know, email is a
+relationship channel. Like, unless you
+are just getting to get revenue directly
+from one email and you don't care about
+ever connecting with that person again,
+you need to like, you know, kind of like
+nourish those relationships just like
+you do in real life, right? So, if
+you're desperate to hit a number, if
+you're delusional about what list
+quality even means or how you get it, if
+you've got like these internal processes
+or like these internal pushes from
+leadership that are just they're making
+it feel like buying is easier than
+building, right? Like I've heard from
+past marketers working for another ESP.
+They're like, you made this hard. I'm
+like, yeah, yeah, it is like it's super
+hard, right? But like you have to have a
+career to do it.
+>> Exactly. Right. And it's like you just I
+get it. I get the pressure, but you also
+need to realize like what is happening
+downstream of that. Like sure, you cut
+the corner, but then you got a ticket
+and you were late to your thing anyway
+because the police stopped you and sat
+there for 15 minutes, right? So, like,
+you know, it's really important to do
+right by recipients. And I think, you
+know, it's just if you're going to buy a
+list, like honestly, just I don't know,
+use it for data. Use it to try to get
+information on your ICP and learn like
+what are their roles? like what other
+data do you have on them that tell you
+like make out who that person is so that
+you can speak to them better and segment
+them better and hopefully if you're
+doing cold email make an outreach that
+actually helps them or isn't boring
+>> there is no such thing I do appreciate
+the formographic approach I do see value
+maybe not on the concept of list of
+buying but better segmentation
+understanding this is very B2B but like
+branding and who is within your ICP and
+who you can want to talk to so there is
+value as long as it's not used for PII
+and bad purposes
+Yeah, it's just I mean AI has made it so
+easy to just like spray and prey now and
+they think that they're being smart with
+these templates, but like you see the
+same stuff all the time now. So, it's
+like you really just you need to have
+done your research. You need to have
+like some sort of angle that resonates
+with that person or that business. Like
+you can't just like throw it out and
+hope for the best, right?
+>> It's just it's a different world now.
+Truly,
+>> for sure. Do you think AI will ever be
+able to think like a deliverability
+expert? Always going to be part science,
+part human art? Because I think
+everyone's always just like there's only
+one answer when in reality it's actually
+probably like 20 different variables
+that you have to tinker with.
+>> Yeah, for sure. And I think that's where
+like you know AI can help but I don't
+think it can replace deliverability
+people like the human nuance that goes
+into like all of you know there's there
+are hundreds probably thousands of
+different mailbox providers that all
+have their own bounce codes and they're
+not following like the standards and all
+these things, right? And so there's this
+like tribal historical knowledge that's
+been kind of gathered over the past 30
+years that people been sent email and
+you know it's shared in Slack channels
+and list serves and like these
+behindthe-scenes places and then it's
+added to somebody's dock and shared when
+someone's like help me I have a problem
+right so I think it's you know AI would
+be good at like the anomaly detection
+like helping you track the trends
+helping you realize when something's off
+but from there I think just it will take
+so much work to add the proper context
+to that AI model to be able to catch all
+the edge cases, right? So, I think it
+can help with like the general stuff,
+right? Like if you're a deliverability
+person that is just saying like segment
+your your list to 90day active, like if
+you're giving that same stale advice,
+you're not going to have a job. Like I
+think you really need to kind of lean
+into more like this is what AI can do.
+This is how far it gets it now. I need
+to be better. I need to be understanding
+a little bit more of the technical
+aspects of like how these things are set
+up, how they connect to your
+infrastructure, like going deeper into
+that part or going deeper into like the
+strategic aspects and the creative part,
+you know, understanding your ICP, right?
+like you could talk to customers, your
+AI could, but like you are the one who's
+going to get better, more human feedback
+from them, right? So, I think it just
+we're all just really throwing spaghetti
+at the wall and it's really messy and I
+think it's going to continue to be messy
+as it evolves. So, how does AI keep up
+with that? Unless you have people that
+are keeping up with it themselves and
+training it, right?
+>> Yeah. I see AI a lot as the difference
+between going to see the doctor and
+going to get over-the-counter
+prescription medication. like, you know
+what, I've got a fever, but it is not so
+high that I need to immediately go to
+hospital and see if there's something
+more versus I've got a low-grade fever.
+I just need to sleep and take some meds
+to help me get through this.
+>> For sure. Always still need that doctor
+if something is well beyond the easy
+things that you can kind of try the
+symptomatic things versus there might be
+a diagnosis here and we need to really
+understand systemically what's going on.
+Yeah,
+>> there's the diagnostics and then there's
+like you said though, the science or the
+art.
+>> Exactly. It's you got to have both if
+you're going to be a good doctor. That's
+for sure.
+>> All right. Our last question we ask
+everyone, who is someone we should have
+on the podcast and we cut out.
+>> Okay. Well, yeah. I mean, I think um the
+one that came to mind immediately is
+>> Christia Esparza. I don't know if you're
+familiar with her. She works at
+>> Yeah. So, she's like historically been
+in deliverability. She worked for like a
+you know, Twilio. She worked for I think
+vertical response and like a bunch of
+different ESGs. and she's like a people
+manager now with Claio she's kind of
+sitting between deliverability product
+and operations so like her role is more
+technical but it's funny it's like she's
+just like the glue like I feel like
+she's like the mama bear of all the
+ladies like when we get together at
+conferences like she's yeah she's great
+she listens she's thoughtful she has a
+way of speaking about her and she just
+she wants to bring other women with her
+as well like her you know one someone
+asked her once I was like what do you do
+to help women or whatever and she was
+like anytime I move up I immediately
+like look behind me and grab another
+person and pull them up too and it's
+like that's just that's how it needs to
+Right. So, yeah. So, and she's just
+interesting to talk to. So, yeah.
+>> Well, would love an introduction.
+>> Okay. Happy to do it. Yeah.
+>> And on that note, thank you so much for
+being on the pod.
+>> Thanks for having me. Yeah, it was
+really fun chatting.
+>> Where can folks find you?
+>> Well, that's a good question. So, I do
+have a website, send-it-write.com,
+and that's where you can sign up for my
+newsletter or just kind of read the blog
+and kind of pal around, find some good
+experts that you should follow. I'm also
+on LinkedIn. I'm pretty active over
+there, and I post a lot just like, you
+know, general best practices, but
+getting way deeper into it. So connect
+with me, come have a chat. I also offer
+20 minute consulting stuff because I
+love to just jam out with people. So if
+you want to just kind of chat again, go
+to my website and sign up. Perfect.
+>> All right. Thanks so much.
+>> Thank you.
+[Music]

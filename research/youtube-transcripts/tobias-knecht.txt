@@ -1,0 +1,44 @@
+In this video, we will go over how to
+set up mail integrations. Mail
+integrations can be used for things like
+notifying your customer of problems
+being reported, and they can also be for
+notifying groups of customers, giving
+them a heads up for a new security
+exploits that their service might be
+vulnerable to. So, let's get started.
+First, we'll want to go into the
+settings by clicking on your username on
+the right side of Abuse HQ.
+Now select settings.
+Next, we'll go over to the left. This is
+where we'll click on the mail
+notifications.
+The first thing we need to do is to we
+need to add an SMTP server. We do this
+by clicking on the manage SMTP service
+button.
+Since we don't have an SMTP service set
+up yet, we'll need to add one.
+You'll see a popup where you'll need to
+enter some basic information regarding
+your SMTP service.
+At the very bottom, you can test your
+connection. You can also send a test
+email to verify your configuration was
+correct.
+Now that that's set up, next we'll want
+to create our mail templates. And we do
+that by clicking on the create template
+button.
+What you'll see now is a blank template
+with different fields that you can
+customize.
+At the very bottom, you'll notice that
+there's an email templates and templates
+variables link.
+If at any time you need assistance
+creating these mail templates or any of
+the variables that can be included
+within the mail template, click on
+either of these links to learn more.

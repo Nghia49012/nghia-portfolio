@@ -16,16 +16,20 @@ class Video:
 
 VIDEOS: list[Video] = [
     Video(
-        creator="Chase Dimond",
-        url="https://www.youtube.com/watch?v=_KyAOExpI6w",
+        creator="Lauren Meyer",
+        url="https://www.youtube.com/watch?v=YnQx2rn_K3Y&start=0",
     ),
     Video(
-        creator="Eric Nowoslawski",
-        url="https://www.youtube.com/watch?v=Cdh5JmJe2ps",
+        creator="Matt McGarry",
+        url="https://www.youtube.com/watch?v=ZllqhESam1k",
     ),
     Video(
-        creator="Jay Schwedelson",
-        url="https://www.youtube.com/watch?v=l0Ua_k6UY6k",
+        creator="Ann Handley",
+        url="https://www.youtube.com/watch?v=Y18hiSY38WI",
+    ),
+    Video(
+        creator="Tobias Knecht",
+        url="https://www.youtube.com/watch?v=g0fIUPEE0Q8",
     ),
 ]
 
